@@ -10,7 +10,7 @@ describe("My First Test", () => {
 // })
 // })
 
-describe("My First Test", () => {
+describe("Launch the website", () => {
   it("Visits the Kitchen Sink", () => {
     cy.visit("http://localhost:8080");
   });

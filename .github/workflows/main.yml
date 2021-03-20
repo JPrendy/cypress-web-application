@@ -7,6 +7,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
 
+      - name: Install Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14"
+
+      - name: Install Dependencies
+        run: npm i
+
+
       - name: Cypress run
         uses: cypress-io/github-action@v2.9.3
         with:
