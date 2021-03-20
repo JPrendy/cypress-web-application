@@ -11,3 +11,4 @@ jobs:
         uses: cypress-io/github-action@v2.9.3
         with:
           start: npm test
+          wait-on: http://localhost:8080
