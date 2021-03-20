@@ -8,7 +8,7 @@ app.get("/", function(req, res){
 });
 
 //gives a port for express to listen to
-app.listen(3000, function(){
+app.listen(8080, function(){
     console.log("server has started");
 });
 
