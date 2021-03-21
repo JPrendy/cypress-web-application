@@ -32,3 +32,5 @@ https://docs.cypress.io/guides/overview/why-cypress.html#Cypress-in-the-Real-Wor
 https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
 
 https://www.345tool.com/blog/automate-node-js-website-e2e-test-with-cypress-and-github-actions
+
+https://docs.cypress.io/guides/continuous-integration/github-actions.html#Cypress-Real-World-Example-with-GitHub-Actions
