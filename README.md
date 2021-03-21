@@ -30,3 +30,5 @@ https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Writ
 https://docs.cypress.io/guides/overview/why-cypress.html#Cypress-in-the-Real-World
 
 https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
+
+https://www.345tool.com/blog/automate-node-js-website-e2e-test-with-cypress-and-github-actions
