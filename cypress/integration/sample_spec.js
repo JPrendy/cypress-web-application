@@ -10,6 +10,7 @@ describe("My First Test", () => {
 // })
 // })
 
+// To test this locally we need to run the server in one tab and run the tests in another tab
 // describe("Launch the website", () => {
 //   it("Visits the Kitchen Sink", () => {
 //     cy.visit("http://localhost:8080");
