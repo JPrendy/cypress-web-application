@@ -136,7 +136,7 @@ To open the `Cypress` Dashboard locally run, we want to type the following in ou
 npx cypress open
 ```
 
-To launch our web server, we want to type one of the following in our terminal at the root of the project.
+To launch our web server, we want to type one of the following in our terminal at the root of the project. If we want to run our tests while having Cypress dashboard open, we need to have these running in separate terminal tabs.
 
 ```javascript
 node app.js

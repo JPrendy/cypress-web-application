@@ -9,8 +9,8 @@
     "test": "start-server-and-test start http://localhost:8080 cy:run"
   },
   "devDependencies": {
-    "cypress": "^6.8.0",
-    "start-server-and-test": "^1.12.1"
+    "cypress": "^8.3.1",
+    "start-server-and-test": "^1.14.0"
   },
   "dependencies": {
     "ejs": "^3.1.6",
